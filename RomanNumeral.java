@@ -33,7 +33,7 @@ public class RomanNumeral {
 
     public static void main(String[] args) {
         // Example usage of the method
-        String romanNumeral = "MCMXCIV";
+        String romanNumeral = "";
         int result = romanToInt(romanNumeral);
         System.out.println("The integer value of the Roman numeral " + romanNumeral + " is " + result);
     }
